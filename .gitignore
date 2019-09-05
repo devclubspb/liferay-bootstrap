@@ -12,6 +12,7 @@
 **/tmp
 **/.web_bundle_build
 .gradle/
+gradle/
 gradlew
 gradlew.bat
 .idea

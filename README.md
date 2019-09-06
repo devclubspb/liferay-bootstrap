@@ -4,11 +4,17 @@ Liferay boostrap project.
 
 ## Get started
 
+Change the directory path and run this snippet to terminal:
+
+```bash
+export YOUR_PROJECT_NAME="path/to/your/project/directory"
+```
+
 Copy and run this snippet to terminal:
 
 ```bash
-mkdir test && \
-cd test && \
+mkdir $YOUR_PROJECT_NAME && \
+cd $YOUR_PROJECT_NAME && \
 git clone https://github.com/devclubspb/liferay-bootstrap-project.git && \
 mv liferay-bootstrap-project/* . && \
 rm -rf liferay-bootstrap-project && \

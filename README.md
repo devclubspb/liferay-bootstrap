@@ -6,6 +6,8 @@ Liferay boostrap project.
 
 Change the directory path and run this snippet to terminal:
 
+### Unix
+
 ```bash
 export YOUR_PROJECT_NAME="path/to/your/project/directory"
 ```

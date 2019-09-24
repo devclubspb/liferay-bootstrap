@@ -6,7 +6,7 @@ Liferay boostrap project.
 
 ## Get started
 
-#### Pre requirements
+### Pre requirements
 
 -  Install [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
 

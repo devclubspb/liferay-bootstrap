@@ -6,8 +6,6 @@ Liferay boostrap project.
 
 ## Get started
 
-Change the directory path and run this snippet to terminal:
-
 ### Unix
 
 #### Pre requirements

@@ -6,9 +6,11 @@ Liferay boostrap project.
 
 ## Get started
 
-### Unix
-
 #### Pre requirements
+
+-  Install [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
+
+### Unix
 
 Create and go to the directory of your project in the terminal:
 
@@ -16,8 +18,6 @@ Create and go to the directory of your project in the terminal:
 mkdir "path/to/your/project/directory"
 cd "path/to/your/project/directory"
 ```
-
-#### Init
 
 Copy and run this snippet in the terminal:
 
@@ -28,5 +28,5 @@ rm -rf liferay-bootstrap-project && \
 git init && \
 git add . && \
 git commit -m "Initial commit" && \
-gradle initBundle
+./gradlew initBundle
 ```

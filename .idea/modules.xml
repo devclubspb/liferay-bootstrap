@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/devclubspb-liferay-bootstrap-project.iml" filepath="$PROJECT_DIR$/.idea/modules/devclubspb-liferay-bootstrap-project.iml" group="liferay-bootstrap-project" />
+      <module fileurl="file://$PROJECT_DIR$/liferay-bootstrap-project.iml" filepath="$PROJECT_DIR$/liferay-bootstrap-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/liferay-bootstrap-project_main.iml" filepath="$PROJECT_DIR$/.idea/modules/liferay-bootstrap-project_main.iml" group="liferay-bootstrap-project" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/liferay-bootstrap-project_test.iml" filepath="$PROJECT_DIR$/.idea/modules/liferay-bootstrap-project_test.iml" group="liferay-bootstrap-project" />
+    </modules>
+  </component>
+</project>

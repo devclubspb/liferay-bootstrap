@@ -19,7 +19,7 @@ mkdir "path/to/your/project/directory"
 cd "path/to/your/project/directory"
 ```
 
-#### Go
+#### Init
 
 Copy and run this snippet in the terminal:
 

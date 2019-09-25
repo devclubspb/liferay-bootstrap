@@ -1,0 +1,4 @@
+Bundle-Name: entry-api
+Bundle-SymbolicName: io.github.devclubspb.liferay.bootstrap.portlet.entry
+Bundle-Version: 1.0.0
+Export-Package: io.github.devclubspb.liferay.bootstrap.portlet.entry.api

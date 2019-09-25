@@ -2,8 +2,8 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
-      <module name="liferay-bootstrap-project_main" target="1.8" />
-      <module name="liferay-bootstrap-project_test" target="1.8" />
+      <module name="liferay-bootstrap_main" target="1.8" />
+      <module name="liferay-bootstrap_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

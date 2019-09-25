@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/devclubspb-liferay-bootstrap-project.iml" filepath="$PROJECT_DIR$/.idea/modules/devclubspb-liferay-bootstrap-project.iml" group="liferay-bootstrap-project" />
-      <module fileurl="file://$PROJECT_DIR$/liferay-bootstrap-project.iml" filepath="$PROJECT_DIR$/liferay-bootstrap-project.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/liferay-bootstrap-project_main.iml" filepath="$PROJECT_DIR$/.idea/modules/liferay-bootstrap-project_main.iml" group="liferay-bootstrap-project" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/liferay-bootstrap-project_test.iml" filepath="$PROJECT_DIR$/.idea/modules/liferay-bootstrap-project_test.iml" group="liferay-bootstrap-project" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/liferay-bootstrap.iml" filepath="$PROJECT_DIR$/.idea/modules/liferay-bootstrap.iml" group="liferay-bootstrap" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/liferay-bootstrap_main.iml" filepath="$PROJECT_DIR$/.idea/modules/liferay-bootstrap_main.iml" group="liferay-bootstrap" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/liferay-bootstrap_test.iml" filepath="$PROJECT_DIR$/.idea/modules/liferay-bootstrap_test.iml" group="liferay-bootstrap" />
     </modules>
   </component>
 </project>

@@ -10,7 +10,7 @@ Liferay boostrap project.
 
 -  Install [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
 
-### Install
+### Installation
 
 Create and go to the directory of your project in the terminal:
 

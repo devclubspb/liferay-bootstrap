@@ -4,6 +4,8 @@
     <bytecodeTargetLevel>
       <module name="liferay-bootstrap_main" target="1.8" />
       <module name="liferay-bootstrap_test" target="1.8" />
+      <module name="sample_main" target="1.8" />
+      <module name="sample_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

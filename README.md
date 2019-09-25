@@ -1,6 +1,6 @@
 ![Liferay bootstrap logo](docs/images/lr-bootstrap-preview.jpeg "Liferay bootstrap logo")
 
-# liferay-bootstrap-project
+# liferay-bootstrap
 
 Liferay boostrap project.
 

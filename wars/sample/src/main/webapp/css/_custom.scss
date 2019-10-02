@@ -1,6 +1,8 @@
 /* These inject tags are used for dynamically creating imports for themelet styles, you can place them where ever you like in this file. */
 
 /* inject:imports */
+@import "sample";
 /* endinject */
 
-/* This file allows you to override default styles in one central location for easier upgrade and maintenance. */
+/* The override.scss file allows you to override default styles in one central location for easier upgrade and maintenance. */
+@import "override";
